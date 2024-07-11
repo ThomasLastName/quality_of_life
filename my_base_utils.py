@@ -1,3 +1,8 @@
+import warnings
+warnings.warn(
+    "This version is deprecated and no longer being maintaned! Please instead see https://github.com/ThomasLastName/quality-of-life",
+    DeprecationWarning
+)
 
 # ~~~ Tom Winckelman wrote this; maintained at: https://github.com/ThomasLastName/quality_of_life
 
